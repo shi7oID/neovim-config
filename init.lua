@@ -1,0 +1,6 @@
+require("core.options")
+require("core.keymaps")
+require("core.ru_mappings")
+require("core.lazy")
+require("core.color")
+--require("core.notify_for_ts")
