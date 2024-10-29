@@ -5,7 +5,7 @@ function SetColor()
 	-- vim.cmd([[colorscheme gruvbox]])	
 
 	-- Option 2
-	vim.cmd.colorscheme "moonfly"
+	vim.cmd.colorscheme "eva01"
 end
 
 SetColor()
