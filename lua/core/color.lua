@@ -5,10 +5,12 @@ function SetColor()
 	-- vim.cmd([[colorscheme gruvbox]])	
 
 	-- Option 2
-	vim.cmd.colorscheme "eva01"
+	vim.cmd.colorscheme "pop-punk"
 end
 
 SetColor()
+
+
 
 -- для прозрачного оформления
 --vim.cmd.highlight({ "Normal", "guibg=NONE" })
